@@ -18,7 +18,7 @@ setup(
     description="Deep Learning-Based Kidney Tumor Subtype Classification from CT Imaging",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/[username]/kidney-tumor-classification",
+    url="https://github.com/fongrong/kidney-tumor-classification",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
