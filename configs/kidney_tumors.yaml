@@ -1,0 +1,12 @@
+# YOLOv7 data configuration for kidney tumor detection
+
+# Train/val/test sets
+train: ../data/train/images
+val: ../data/val/images
+test: ../data/test/images
+
+# Number of classes
+nc: 5
+
+# Class names
+names: ['kidney', 'ccRCC', 'pRCC', 'chRCC', 'ONC']
