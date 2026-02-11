@@ -57,7 +57,7 @@ Kidney cancer affects over 430,000 people annually worldwide. This AI system pro
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/kidney-tumor-classification.git
+git clone https://github.com/fongrong/kidney-tumor-classification.git
 cd kidney-tumor-classification
 
 # Create virtual environment
